@@ -1,0 +1,8 @@
+.card-grid{
+    display: grid;
+    grid-template-columns: auto;
+}
+.card-comp{
+    background-color: black;
+    color: wheat;
+}
