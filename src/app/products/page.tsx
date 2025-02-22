@@ -3,13 +3,12 @@ import CardGrid from "@/components/CardGrid";
 import data from "../../data/data.json"
 export default function ProductList(){
     return(
-        <div>
+        <main className="product-section">
             <CardGrid>
-                {data && data.shoes && data.shoes.map((item,id)=>(
+                {data && data.map((item,id)=>(
                    <Card item={item} key={id}/>
                 ))}
-
             </CardGrid>
-        </div>
+        </main>
     )
 }

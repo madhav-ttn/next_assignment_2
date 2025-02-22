@@ -1,50 +1,92 @@
-{
-    "shoes": [
-      {
-        "id": 1,
-        "name": "Air Max 90",
-        "brand": "Nike",
-        "size": "10",
-        "color": "Red",
-        "price": 120,
-        "in_stock": true
-      },
-      {
-        "id": 2,
-        "name": "UltraBoost",
-        "brand": "Adidas",
-        "size": "9",
-        "color": "Black",
-        "price": 150,
-        "in_stock": true
-      },
-      {
-        "id": 3,
-        "name": "Classic Leather",
-        "brand": "Reebok",
-        "size": "8",
-        "color": "White",
-        "price": 90,
-        "in_stock": false
-      },
-      {
-        "id": 4,
-        "name": "Gel-Kayano 27",
-        "brand": "ASICS",
-        "size": "11",
-        "color": "Blue",
-        "price": 130,
-        "in_stock": true
-      },
-      {
-        "id": 5,
-        "name": "Wave Rider 24",
-        "brand": "Mizuno",
-        "size": "10.5",
-        "color": "Green",
-        "price": 140,
-        "in_stock": false
-      }
-    ]
+[
+  {
+    "id": 1,
+    "name": "Air Max 90",
+    "brand": "Nike",
+    "size": "10",
+    "color": "Red",
+    "price": 120,
+    "in_stock": true
+  },
+  {
+    "id": 2,
+    "name": "UltraBoost",
+    "brand": "Adidas",
+    "size": "9",
+    "color": "Black",
+    "price": 150,
+    "in_stock": true
+  },
+  {
+    "id": 3,
+    "name": "Classic Leather",
+    "brand": "Reebok",
+    "size": "8",
+    "color": "White",
+    "price": 90,
+    "in_stock": false
+  },
+  {
+    "id": 4,
+    "name": "Gel-Kayano 27",
+    "brand": "ASICS",
+    "size": "11",
+    "color": "Blue",
+    "price": 130,
+    "in_stock": true
+  },
+  {
+    "id": 5,
+    "name": "Wave Rider 24",
+    "brand": "Mizuno",
+    "size": "10.5",
+    "color": "Green",
+    "price": 140,
+    "in_stock": false
+  },
+  {
+    "id": 6,
+    "name": "Gel-Nimbus 22",
+    "brand": "ASICS",
+    "size": "9.5",
+    "color": "Grey",
+    "price": 150,
+    "in_stock": true
+  },
+  {
+    "id": 7,
+    "name": "Air Force 1",
+    "brand": "Nike",
+    "size": "8",
+    "color": "Black",
+    "price": 100,
+    "in_stock": true
+  },
+  {
+    "id": 8,
+    "name": "NMD_R1",
+    "brand": "Adidas",
+    "size": "11",
+    "color": "White",
+    "price": 140,
+    "in_stock": false
+  },
+  {
+    "id": 9,
+    "name": "Club C 85",
+    "brand": "Reebok",
+    "size": "10",
+    "color": "Green",
+    "price": 90,
+    "in_stock": true
+  },
+  {
+    "id": 10,
+    "name": "Wave Inspire 17",
+    "brand": "Mizuno",
+    "size": "9",
+    "color": "Blue",
+    "price": 130,
+    "in_stock": true
   }
-  
+]

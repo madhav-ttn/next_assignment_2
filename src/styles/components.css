@@ -1,8 +1,26 @@
 .card-grid{
-    display: grid;
-    grid-template-columns: auto;
+   padding:16px ;
+   display: grid;
+   grid-template-columns: repeat(3,1fr);
+}
+.card-grid ul{
+    list-style: none;
+    align-self: center;
 }
 .card-comp{
-    background-color: black;
-    color: wheat;
+    padding: 16px;
+    background-color: rgb(23, 23, 77);
+    color: white;
+    border:1px solid white;
+    border-radius: 10px;
+    min-width: 300px;
+    cursor: pointer;
+}
+
+.card-comp:hover{
+    scale: 102%;
+}
+.card-comp ul li{
+   display: flex;
+   justify-content: space-between;
 }

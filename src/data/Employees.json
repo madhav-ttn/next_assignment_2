@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "address": "1234 Main St, New Delhi, Delhi, India",
+        "organization": "Tech Solutions Ltd."
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "address": "5678 Oak St, Bangalore, Karnataka, India",
+        "organization": "Innovatech Inc."
+    },
+    {
+        "id": 3,
+        "name": "Arjun Kapoor",
+        "address": "9102 Elm St, Mumbai, Maharashtra, India",
+        "organization": "FutureTech Pvt. Ltd."
+    },
+    {
+        "id": 4,
+        "name": "Priya Singh",
+        "address": "123 Pine St, Chennai, Tamil Nadu, India",
+        "organization": "DataCorp Solutions"
+    },
+    {
+        "id": 5,
+        "name": "Ravi Sharma",
+        "address": "456 Maple St, Kolkata, West Bengal, India",
+        "organization": "AI Innovations"
+    },
+    {
+        "id": 6,
+        "name": "Neha Patil",
+        "address": "789 Birch St, Hyderabad, Telangana, India",
+        "organization": "CloudTech Systems"
+    },
+    {
+        "id": 7,
+        "name": "Karan Mehta",
+        "address": "321 Cedar St, Pune, Maharashtra, India",
+        "organization": "TechHub Pvt. Ltd."
+    },
+    {
+        "id": 8,
+        "name": "Sanjana Rao",
+        "address": "654 Spruce St, Jaipur, Rajasthan, India",
+        "organization": "Innovative Minds Inc."
+    },
+    {
+        "id": 9,
+        "name": "Rahul Verma",
+        "address": "987 Fir St, Ahmedabad, Gujarat, India",
+        "organization": "Smart Solutions Co."
+    },
+    {
+        "id": 10,
+        "name": "Ananya Gupta",
+        "address": "147 Willow St, Lucknow, Uttar Pradesh, India",
+        "organization": "FutureVision Ltd."
+    }
+]
