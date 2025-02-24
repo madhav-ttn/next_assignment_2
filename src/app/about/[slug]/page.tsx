@@ -1,4 +1,3 @@
-import Card from "@/components/Card";
 import empData from "@/data/Employees.json";
 import Link from "next/link";
 export default async function EmployeeDetails({params}:{params:Promise<{slug:string}>}){

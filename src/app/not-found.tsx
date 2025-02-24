@@ -28,7 +28,7 @@ export default function NotFound() {
       };
     }
     test();
-  }, []);
+  });
 
   return (
     <div>
